@@ -1,4 +1,4 @@
-# How to build *PS5/Xbox Series* X (Gen 9) Shaders.
+# How to compile *PS5/Xbox Series* X (Gen 9) Shaders.
 
 #### ***This is Experimental and not completely working***
 
