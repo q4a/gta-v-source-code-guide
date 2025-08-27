@@ -77,7 +77,8 @@ You should now see what you're building, and at the bottom left of the window, y
 
 Make sure you got a normal shader copy compiled 
  - You can get prebuild shaders [here](https://pixeldrain.com/u/vAvUVD8B).
- - Or compile them yourself with this guide. 
+ - Or compile them yourself with [this guide](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#building-shaders). 
+    - Make sure to restore the default settings before useing this guide.
 
 5. Drag the contents from `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50` to the `win32_40` folder of your normal shader copy.
 6. Drop the `win32_40` folder in you game directory in this path `Grand Theft Auto V\common\shaders\win32_40`.
