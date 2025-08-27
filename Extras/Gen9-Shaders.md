@@ -4,7 +4,7 @@
 
 ### Requirements:
  - A prebuilt version of normal shaders, you can compile them or download them
- - Make sure you setup the source code (follow all steps on PC Guide up to [Patching Source Code and Tools](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#patching-source-code-and-tools))
+ - Make sure you setup the source code (follow all steps on PC Guide up to [Patching Source Code and Tools](../PC.md#patching-source-code-and-tools))
 
 ### Configuration Settings
 
@@ -17,37 +17,37 @@
 - A warning will show in the Command Prompt Window stating you are missing an SDK, please ignore it and press any key to continue and open it with Visual Studio 2012.
 
 <div style="text-align:center;">
-<img src="IMG/02.png" alt="image" style="width:50%;">
+<img src="../IMG/02.png" alt="image" style="width:50%;">
 </div>
 
 - If you are promoted with `Choose Default Environment Settings` Select `General Development Settings` and at `Local Help Documentation` select `None`.
 
 <div style="text-align:center;">
-<img src="IMG/03.png" alt="image" style="width:50%;">
+<img src="../IMG/03.png" alt="image" style="width:50%;">
 </div>
 
 2. Once the solution loads, open the drop down menu that says `Debug` at the top, select `Configuration Manager`.
 
 <div style="text-align:center;">
-<img src="IMG/04.png" alt="image" style="width:50%;">
+<img src="../IMG/04.png" alt="image" style="width:50%;">
 </div>
 
 3. Change `Active Solution Platform` to `x64` then close the configuration window.
 
 <div style="text-align:center;">
-<img src="IMG/16.png" alt="image" style="width:50%;">
+<img src="../IMG/16.png" alt="image" style="width:50%;">
 </div>
 
 4. On the `solution explorer` scroll down to `shaders_rc` and right click then click on properties.
 
 <div style="text-align:center;">
-<img src="IMG/17.png" alt="image" style="width:30%;">
+<img src="../IMG/17.png" alt="image" style="width:30%;">
 </div>
 
 5. Set the `Platform` to `Win32` and the `Configuration` to `(Debug Win32 4.0)`.
 
 <div style="text-align:center;">
-<img src="IMG/18.png" alt="image" style="width:50%;">
+<img src="../IMG/18.png" alt="image" style="width:50%;">
 </div>
 
 6. Click on `NMake` then set:
@@ -59,7 +59,7 @@ Rebuild All Command Line to `$(MSBuildProjectDirectory)\batch\rsm_rebuild_win32_
 Clean Command Line to `$(MSBuildProjectDirectory)\batch\rsm_clean_win32_50.bat dev`
 
 <div style="text-align:center;">
-<img src="IMG/19.png" alt="image" style="width:50%;">
+<img src="../IMG/19.png" alt="image" style="width:50%;">
 </div>
 
 ### Compiling the Shaders
@@ -77,10 +77,10 @@ You should now see what you're building, and at the bottom left of the window, y
 
 Make sure you got a normal shader copy compiled 
  - You can get prebuild shaders [here](https://pixeldrain.com/u/vAvUVD8B).
- - Or compile them yourself with [this guide](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#building-shaders). 
+ - Or compile them yourself with [this guide](../PC.md#building-shaders). 
     - Make sure to restore the default settings before useing this guide.
 
 5. Drag the contents from `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50` to the `win32_40` folder of your normal shader copy.
 6. Drop the `win32_40` folder in you game directory in this path `Grand Theft Auto V\common\shaders\win32_40`.
 
-To use the shaders [run a compiled build](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#running-the-game).
+To use the shaders [run a compiled build](../PC.md#running-the-game).
