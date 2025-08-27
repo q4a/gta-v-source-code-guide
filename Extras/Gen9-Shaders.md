@@ -14,19 +14,19 @@
 <img src="../IMG/01.png" alt="image" style="width:30%;">
 </div>
 
-- A warning will show in the Command Prompt Window stating you are missing an SDK, please ignore it and press any key to continue and open it with Visual Studio 2012.
+- A warning will appear in the Command Prompt Window stating you are missing an SDK, please ignore it and press any key to continue and open it with Visual Studio 2012.
 
 <div style="text-align:center;">
 <img src="../IMG/02.png" alt="image" style="width:50%;">
 </div>
 
-- If you are promoted with `Choose Default Environment Settings` Select `General Development Settings` and at `Local Help Documentation` select `None`.
+- If you are prompted with `Choose Default Environment Settings` Select `General Development Settings` and at `Local Help Documentation` select `None`.
 
 <div style="text-align:center;">
 <img src="../IMG/03.png" alt="image" style="width:50%;">
 </div>
 
-2. Once the solution loads, open the drop down menu that says `Debug` at the top, select `Configuration Manager`.
+2. Once the solution loads, open the drop-down menu that says `Debug` at the top, select `Configuration Manager`.
 
 <div style="text-align:center;">
 <img src="../IMG/04.png" alt="image" style="width:50%;">
@@ -38,7 +38,7 @@
 <img src="../IMG/16.png" alt="image" style="width:50%;">
 </div>
 
-4. On the `solution explorer` scroll down to `shaders_rc` and right click then click on properties.
+4. In the `solution explorer` scroll down to `shaders_rc` and right click then click on properties.
 
 <div style="text-align:center;">
 <img src="../IMG/17.png" alt="image" style="width:30%;">
