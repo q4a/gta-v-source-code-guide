@@ -73,12 +73,12 @@ You should now see what you're building, and at the bottom left of the window, y
 
 2. Wait for the build to finish (Expect errors).
 3. The build will fail but most of it should have compiled.
-4. Your compiled sharders should be in `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50`
+4. Your compiled shaders should be in `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50`
 
 Make sure you got a normal shader copy compiled 
  - You can get prebuild shaders [here](https://pixeldrain.com/u/vAvUVD8B).
  - Or compile them yourself with [this guide](../PC.md#building-shaders). 
-    - Make sure to restore the default settings before useing this guide.
+    - Make sure to restore the default settings before using this guide.
 
 5. Drag the contents from `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50` to the `win32_40` folder of your normal shader copy.
 6. Drop the `win32_40` folder in you game directory in this path `Grand Theft Auto V\common\shaders\win32_40`.
