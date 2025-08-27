@@ -6,7 +6,7 @@
  - A prebuilt version of normal shaders, you can compile them or download them
  - Make sure you setup the source code (follow all steps on PC Guide up to [Patching Source Code and Tools](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#patching-source-code-and-tools))
 
-### Compile Shaders
+### Configuration Settings
 
 1. Run `X:\gta5\src\dev_ng\game\VS_Project\load_sln_unity_2012.bat`.
 
@@ -62,7 +62,9 @@ Clean Command Line to `$(MSBuildProjectDirectory)\batch\rsm_clean_win32_50.bat d
 <img src="IMG/19.png" alt="image" style="width:50%;">
 </div>
 
-# PROGRESS MARK (After this the info is not tested by me)
+### Compiling the Shaders
+
+1. On the `solution explorer` scroll down to `shaders_rc` and right click then click on `build`.
 
 To see the progress and watch its status, in the taskbar, open the Overflow Menu (the small ^ in the taskbar on the right).
 Find `IncrediBuild Agent` (the one with a green arrow), right-click it, and press `Build Monitor`.
