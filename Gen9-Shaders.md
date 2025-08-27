@@ -71,11 +71,15 @@ Find `IncrediBuild Agent` (the one with a green arrow), right-click it, and pres
 In `Build Monitor`, on the left press the icon at the top that should say `Progress`.
 You should now see what you're building, and at the bottom left of the window, you'll see a percentage of how complete it is out of 100%.
 
-# AFTER THIS ALL STUFF IS UNTESTED
+2. Wait for the build to finish (Expect errors).
+3. The build will fail but most of it should have compiled.
+4. Your compiled sharders should be `X:\gta5\titleupdate\dev_ng\common\shaders`
 
-6. After that build the shaders with incredibuild.
-7. Wait for the build to finish (Expect for errors and the build to fail)
-8. After the build finshes 90% of the build should have stil completed
-9. Your compiled sharders should be `X:\gta5\titleupdate\dev_ng\common\shaders`
-10. Drag the contents from `win32_50` to `win32_40` in your shaders folder
-11. Launch the build and enjoy!
+Make sure you got a normal shader copy compiled 
+ - You can get prebuild shaders here.
+ - Or compile them yourself with this guide. 
+
+5. Drag the contents from `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50` to the `win32_40` folder of your normal shader copy.
+6. Drop the `win32_40` folder in you game directory in this path `Grand Theft Auto V\common\shaders\win32_40`.
+
+To use the shaders run a compiled build.
