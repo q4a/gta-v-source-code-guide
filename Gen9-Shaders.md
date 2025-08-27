@@ -50,19 +50,16 @@
 <img src="IMG/18.png" alt="image" style="width:50%;">
 </div>
 
+6. Click on `NMake` then set:
+Build Command Line to `$(MSBuildProjectDirectory)\batch\rsm_build_win32_50.bat dev`
+Rebuild All Command Line to `$(MSBuildProjectDirectory)\batch\rsm_rebuild_win32_50.bat dev`
+Clean Command Line to `$(MSBuildProjectDirectory)\batch\rsm_clean_win32_50.bat dev`
+
+<div style="text-align:center;">
+<img src="IMG/19.png" alt="image" style="width:50%;">
+</div>
+
 # PROGRESS MARK (After this the info is not tested by me)
-
-5) Rename this
-`$(MSBuildProjectDirectory)\batch\rsm_build_win32_40.bat dev`
-`$(MSBuildProjectDirectory)\batch\rsm_rebuild_win32_40.bat dev`
-`$(MSBuildProjectDirectory)\batch\rsm_clean_win32_40.bat dev`
-
-To this 
-`$(MSBuildProjectDirectory)\batch\rsm_build_win32_50.bat dev`
-`$(MSBuildProjectDirectory)\batch\rsm_rebuild_win32_50.bat dev`
-`$(MSBuildProjectDirectory)\batch\rsm_clean_win32_50.bat dev`
-
-
 
 To see the progress and watch its status, in the taskbar, open the Overflow Menu (the small ^ in the taskbar on the right).
 Find `IncrediBuild Agent` (the one with a green arrow), right-click it, and press `Build Monitor`.
