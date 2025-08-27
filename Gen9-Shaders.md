@@ -71,6 +71,8 @@ Find `IncrediBuild Agent` (the one with a green arrow), right-click it, and pres
 In `Build Monitor`, on the left press the icon at the top that should say `Progress`.
 You should now see what you're building, and at the bottom left of the window, you'll see a percentage of how complete it is out of 100%.
 
+# AFTER THIS ALL STUFF IS UNTESTED
+
 6. After that build the shaders with incredibuild.
 7. Wait for the build to finish (Expect for errors and the build to fail)
 8. After the build finshes 90% of the build should have stil completed
