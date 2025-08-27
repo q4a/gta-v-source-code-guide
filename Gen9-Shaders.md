@@ -51,8 +51,11 @@
 </div>
 
 6. Click on `NMake` then set:
+
 Build Command Line to `$(MSBuildProjectDirectory)\batch\rsm_build_win32_50.bat dev`
+
 Rebuild All Command Line to `$(MSBuildProjectDirectory)\batch\rsm_rebuild_win32_50.bat dev`
+
 Clean Command Line to `$(MSBuildProjectDirectory)\batch\rsm_clean_win32_50.bat dev`
 
 <div style="text-align:center;">
