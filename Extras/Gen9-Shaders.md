@@ -3,7 +3,7 @@
 #### ***This is experimental and not fully working***
 
 ### Requirements:
- - A prebuilt version of normal shaders, you can compile them or download them
+ - A [prebuilt version of normal shaders](https://pixeldrain.com/u/vAvUVD8B) or you can compile them.
  - Make sure you setup the source code (follow all steps on PC Guide up to [Patching Source Code and Tools](../PC.md#patching-source-code-and-tools))
 
 ### Configuration Settings
