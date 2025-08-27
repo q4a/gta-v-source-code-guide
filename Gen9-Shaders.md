@@ -32,8 +32,7 @@
 <img src="IMG/04.png" alt="image" style="width:50%;">
 </div>
 
-3. Change `Active Solution Platform` to `x64` and `Active Solution Configuration` to `BankRelease` then close the configuration window.
-  - You can change `Active Solution Configuration` to anything you want all will compile but this guide focuses on running the `BankRelease`.
+3. Change `Active Solution Platform` to `x64` then close the configuration window.
 
 <div style="text-align:center;">
 <img src="IMG/05.png" alt="image" style="width:50%;">
