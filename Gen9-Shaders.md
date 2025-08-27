@@ -35,7 +35,7 @@
 3. Change `Active Solution Platform` to `x64` then close the configuration window.
 
 <div style="text-align:center;">
-<img src="IMG/05.png" alt="image" style="width:50%;">
+<img src="IMG/16.png" alt="image" style="width:50%;">
 </div>
 
 3. On your solution explorer scroll down to `shaders_rc` and right click on properties 
