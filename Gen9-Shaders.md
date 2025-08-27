@@ -38,8 +38,17 @@
 <img src="IMG/16.png" alt="image" style="width:50%;">
 </div>
 
-3. On your solution explorer scroll down to `shaders_rc` and right click on properties 
-4. Double check that your platform is `Win32` and your configuration is `(Debug Win32 4.0)`
+4. On the `solution explorer` scroll down to `shaders_rc` and right click then click on properties.
+
+<div style="text-align:center;">
+<img src="IMG/17.png" alt="image" style="width:50%;">
+</div>
+
+5. Set the `Platform` to `Win32` and the `Configuration` to `(Debug Win32 4.0)`
+
+<div style="text-align:center;">
+<img src="IMG/18.png" alt="image" style="width:50%;">
+</div>
 
 # PROGRESS MARK (After this the info is not tested by me)
 
