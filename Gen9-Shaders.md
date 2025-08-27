@@ -44,7 +44,7 @@
 <img src="IMG/17.png" alt="image" style="width:30%;">
 </div>
 
-5. Set the `Platform` to `Win32` and the `Configuration` to `(Debug Win32 4.0)`
+5. Set the `Platform` to `Win32` and the `Configuration` to `(Debug Win32 4.0)`.
 
 <div style="text-align:center;">
 <img src="IMG/18.png" alt="image" style="width:50%;">
