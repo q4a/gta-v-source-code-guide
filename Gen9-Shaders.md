@@ -4,7 +4,7 @@
 
 ### Requirements:
  - A prebuilt version of normal shaders, you can compile them or download them
- - Make sure you setup the source code (follow all steps on PC Guide up to [Patching Source Code and Tools](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#patching-source-code-and-tools)
+ - Make sure you setup the source code (follow all steps on PC Guide up to [Patching Source Code and Tools](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/PC.md#patching-source-code-and-tools))
 
 ### Compile Shaders
 
