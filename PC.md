@@ -89,7 +89,7 @@
 <img src="IMG/03.png" alt="image" style="width:50%;">
 </div>
 
-2. Once the solution loads, open the drop down menu that says `Debug` at the top, select `Configuration Manager`
+2. Once the solution loads, open the drop down menu that says `Debug` at the top, select `Configuration Manager`.
 
 <div style="text-align:center;">
 <img src="IMG/04.png" alt="image" style="width:50%;">
