@@ -73,7 +73,7 @@ You should now see what you're building, and at the bottom left of the window, y
 
 2. Wait for the build to finish (Expect errors).
 3. The build will fail but most of it should have compiled.
-4. Your compiled sharders should be `X:\gta5\titleupdate\dev_ng\common\shaders`
+4. Your compiled sharders should be in `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50`
 
 Make sure you got a normal shader copy compiled 
  - You can get prebuild shaders here.
