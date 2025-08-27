@@ -1,6 +1,6 @@
 # How to compile *PS5/Xbox Series* X (Gen 9) Shaders.
 
-#### ***This is Experimental and not completely working***
+#### ***This is experimental and not fully working***
 
 ### Requirements:
  - A prebuilt version of normal shaders, you can compile them or download them
