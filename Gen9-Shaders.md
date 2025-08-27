@@ -76,7 +76,7 @@ You should now see what you're building, and at the bottom left of the window, y
 4. Your compiled sharders should be in `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50`
 
 Make sure you got a normal shader copy compiled 
- - You can get prebuild shaders here.
+ - You can get prebuild shaders [here](https://pixeldrain.com/u/vAvUVD8B).
  - Or compile them yourself with this guide. 
 
 5. Drag the contents from `X:\gta5\titleupdate\dev_ng\common\shaders\win32_50` to the `win32_40` folder of your normal shader copy.
