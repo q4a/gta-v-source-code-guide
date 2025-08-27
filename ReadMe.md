@@ -29,11 +29,12 @@ The PS4 game version is v1.46.
 #### PS4 Patches, SDKs and support by [Jorby](https://github.com/coldreactor64)
 #### Xbox One Guide by: [Franklin_Clinton](https://github.com/FranklinClintonDev)
 #### Xbox One SDK by: [Sorynx](https://github.com/Dbz9)
-#### Gen 9 Shader Compiling by: [juniorbros](https://github.com/satincult8) with help of [YungDoom](https://github.com/yungDoom)
+#### How to compile PS5/Xbox Series X (Gen 9) Shaders by: [juniorbros](https://github.com/satincult8) with help of [YungDoom](https://github.com/yungDoom)
 Without you all I could not have made this guide thank you very much.
 
 ---------------------------------------------------------------------
 ### If you need any help feel free to ask in our discord server https://discord.gg/YaqC9aqrsx
+
 
 
 
