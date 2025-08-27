@@ -13,6 +13,7 @@ The PS4 game version is v1.46.
 ### [For PC](PC.md)
 ### [For PS4](PS4.md)
 ### [Xbox One](Xbox%20One.md) (NOT WORKING)
+### [Compile Gen 9 Shaders](Gen9-Shaders.md) (WIP)
 
 ### Extras:
 
@@ -34,6 +35,7 @@ Without you all I could not have made this guide thank you very much.
 
 ---------------------------------------------------------------------
 ### If you need any help feel free to ask in our discord server https://discord.gg/YaqC9aqrsx
+
 
 
 
