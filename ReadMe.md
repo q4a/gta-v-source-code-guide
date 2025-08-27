@@ -13,13 +13,13 @@ The PS4 game version is v1.46.
 ### [For PC](PC.md)
 ### [For PS4](PS4.md)
 ### [Xbox One](Xbox%20One.md) (NOT WORKING)
-### [How to compile *PS5/Xbox Series* X (Gen 9) Shaders](Gen9-Shaders.md) (WIP)
 ### Extras:
 
 #### - [Incredebuild Crack](Extras/Incredibuild%20Crack)
 #### - [Endorphin Crack](Extras/Endorphin%20Crack)
 #### - [Optional Patches](Extras/Optional%20Patches)
    - [3rd Party Folder](Extras/Optional%20Patches/3rd%20Party%20Folder) 
+### [How to compile *PS5/Xbox Series* X (Gen 9) Shaders](Gen9-Shaders.md) (WIP)
 
 ### Credits:
 
@@ -34,6 +34,7 @@ Without you all I could not have made this guide thank you very much.
 
 ---------------------------------------------------------------------
 ### If you need any help feel free to ask in our discord server https://discord.gg/YaqC9aqrsx
+
 
 
 
