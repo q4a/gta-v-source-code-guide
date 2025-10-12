@@ -143,7 +143,7 @@ Set permissions:
 - 2699 Build:
   1. Extract [`v2699 - 1.61 + Prebuild Scripts.7z`](https://pixeldrain.com/u/MMsym3kN).
   2. Copy both files from this archive to the update folder in the game directory.
-- Retail Patched Build:
+- Retail Patched Build (v3407-3521):
   1. Make sure you're using `update.rpf` and `update2.rpf` from version 3407 to 3521, or possibly some later versions.
 
 #### - If you want to build the scripts yourself (2699 Build Only):
