@@ -129,6 +129,10 @@
 
 The game needs to be modified slightly to run the compiled build, as mentioned above.
 
+Set permissions:
+1. Move your game directory from the default Program Files directory to a custom location like desktop, so to avoid issues with admin restrictions or permission issues.
+2. Right-click on your gmame directory, turn off the "Read-Only" option, then press "Apply"
+
 #### - If you don't want to compile shaders:
 1. Open [`common.zip`](https://pixeldrain.com/u/vAvUVD8B) and extract the file.
 2. Copy the extracted common folder to your game directory.
