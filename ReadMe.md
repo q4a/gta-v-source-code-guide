@@ -33,7 +33,8 @@ The PS4 game version is v1.46.
 Without you all I could not have made this guide thank you very much.
 
 ---------------------------------------------------------------------
-### If you need any help feel free to ask in our discord server https://discord.gg/YaqC9aqrsx
+### If you need any help feel free to ask in our discord server https://discord.com/invite/Yd3YamEAYK
+
 
 
 
