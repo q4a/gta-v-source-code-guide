@@ -40,4 +40,4 @@ Most missions behave similarly to the retail build, with several crashes related
 
 ---
 
-*Last updated during PS4 Debug Build Story Mode testing.*
+*Last updated 24 December 2024.*
