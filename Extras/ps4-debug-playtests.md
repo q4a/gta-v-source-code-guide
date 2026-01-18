@@ -1,82 +1,71 @@
-# GTA V PS4 Debug Build – Story Mode Testing
+# GTA V PS4 Debug Build – Story Mode Testing Notes
 
-TESTING ON PAUSE UNTIL RAG WORKS
+Story Mode testing for the **GTA V PS4 Debug Build**.
 
-Tested by juniorbros and your mom
+> **Testing Status:** ⏸️ On pause until RAG is working
+
+**Testers:**  
+- juniorbros  
+- your mom  
 
 ---
 
-Prologue / Franklin and Lamar  
-PASSED  
-No bugs  
-Works like retail
+## Test Summary
 
-Repossession  
-PASSED  
-No bugs  
-Works like retail
+This document tracks mission progress, bugs, crashes, and workarounds encountered during Story Mode testing.  
+Most missions behave similarly to the retail build, with several crashes related to debug features.
 
-Pulling Favors  
-PASSED  
-GAME BREAKING CRASH  
-Game crashes when entering tow truck  
-Fix: Press Z on debug keyboard → TOWING → continue mission
+---
 
-Complications  
-PASSED  
-Phone speaker glitch  
-Heavy input lag during Simon call, probably FPS drop
+## Mission Testing Log
 
-Father/Son  
-PASSED  
-CRASH  
-Game crashed while driving to Michael’s boat, worked after retry
+| Mission Name | Status | Bugs / Issues | Notes |
+|-------------|--------|---------------|-------|
+| Prologue & Franklin and Lamar | Passed | None | Mission went smoothly, identical to retail |
+| Repossession | Passed | None | Works like retail |
+| Pulling Favors | Passed | Game-breaking crash | Entering the tow truck crashes the game. **Fix:** Press `Z` on the debug keyboard → select **TOWING**, then continue |
+| Unlocking Packie McReary (Heist Member) | Unlocked | None | Unlock process works normally |
+| Complications | Passed | Phone speaker glitch | Heavy input lag during Simon’s call, likely FPS-related |
+| Father/Son | Passed | Game crash | Crash occurred while driving to Michael’s boat; mission worked after retry |
+| Chop | Passed | None | Works like retail |
+| Marriage Counseling | Passed | None | Works like retail |
+| Daddy’s Little Girl | Passed | None | Accidentally skipped mission by pressing `S` on debug keyboard |
+| Friend Request | Passed | None | Works like retail |
+| Unlocking Rickie Lukens (Heist Member) | Unlocked | None | Phone call received, member unlocked |
+| The Good Husband | Wife Saved | None | Mission started normally after Amanda’s call |
+| The Long Stretch | Passed | None | Mission recorded, tested with debug features |
+| Bugstars Equipment | Passed | None | Works like retail |
+| Random Event: Saving Lacey Jonas | Passed | None | Mission completed successfully |
+| Collecting Gas for Heist | Passed (Skipped) | Game crash | Died once, crashed second attempt; mission skipped |
+| The Jewel Store Job | Passed (Partial Skip) | Repeated crashes | Crashed while driving to store; cops triggered early when throwing gas |
 
-Chop  
-PASSED  
-No bugs
+---
 
-Marriage Counseling  
-PASSED  
-No bugs
+## Notes & Observations
 
-Daddy’s Little Girl  
-PASSED  
-Accidentally skipped mission by pressing S on debug keyboard
+- Most missions behave identically to the retail version.
+- Crashes commonly occur during:
+  - Driving segments
+  - Debug interactions
+  - Death/retry scenarios
+- Debug keyboard inputs can accidentally skip missions.
+- Some crashes can be bypassed by skipping sections.
 
-Friend Request  
-PASSED  
-No bugs
+---
 
-Unlock Rickie Lukens  
-UNLOCKED  
-No bugs
+## Known Workarounds
 
-The Good Husband  
-WIFE SAVED  
-No bugs
+- **Tow Truck Crash (Pulling Favors):**  
+  Use debug menu → `Z` → **TOWING**
 
-The Long Stretch  
-PASSED  
-No bugs  
-Recorded mission, tested debug features
+---
 
-Bugstars Equipment  
-PASSED  
-No bugs
+## TODO
 
-Random Event: Saving Lacey Jonas  
-PASSED  
-No bugs  
-This mission sucked
+- Resume testing once **RAG** is functional
+- Retest crashed missions without skipping
+- Log performance/FPS data where possible
 
-Collecting Gas for Heist  
-SKIPPED  
-CRASH  
-Died once, second attempt crashed
+---
 
-The Jewel Store Job  
-PARTIALLY SKIPPED  
-MULTIPLE CRASHES  
-Crashes while driving to store  
-Cops triggered early when throwing gas
+*Last updated during PS4 Debug Build Story Mode testing.*
