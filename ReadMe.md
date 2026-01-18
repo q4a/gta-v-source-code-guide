@@ -1,4 +1,4 @@
-w# Grand Theft Auto V: Source Code Build Guide
+# Grand Theft Auto V: Source Code Build Guide
 
 The *Grand Theft Auto V: Source Code Build Guide* explains how to set up and compile the game's source code, apply patches, install necessary tools, build shaders and scripts, and includes troubleshooting tips.
 
@@ -34,6 +34,7 @@ Without you all I could not have made this guide thank you very much.
 
 ---------------------------------------------------------------------
 ### If you need any help feel free to ask in our discord server https://discord.com/invite/Yd3YamEAYK
+
 
 
 
