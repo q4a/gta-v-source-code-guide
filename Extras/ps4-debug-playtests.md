@@ -41,31 +41,4 @@ Most missions behave similarly to the retail build, with several crashes related
 
 ---
 
-## Notes & Observations
-
-- Most missions behave identically to the retail version.
-- Crashes commonly occur during:
-  - Driving segments
-  - Debug interactions
-  - Death/retry scenarios
-- Debug keyboard inputs can accidentally skip missions.
-- Some crashes can be bypassed by skipping sections.
-
----
-
-## Known Workarounds
-
-- **Tow Truck Crash (Pulling Favors):**  
-  Use debug menu → `Z` → **TOWING**
-
----
-
-## TODO
-
-- Resume testing once **RAG** is functional
-- Retest crashed missions without skipping
-- Log performance/FPS data where possible
-
----
-
 *Last updated during PS4 Debug Build Story Mode testing.*
