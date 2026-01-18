@@ -6,7 +6,6 @@ Story Mode testing for the **GTA V PS4 Debug Build**.
 
 **Testers:**  
 - juniorbros  
-- your mom  
 
 ---
 
