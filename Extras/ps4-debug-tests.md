@@ -5,7 +5,7 @@ Story Mode testing for the **GTA V PS4 Debug Build**.
 > **Testing Status:** ⏸️ On pause until RAG is working
 
 **Testers:**  
-- juniorbros  
+- [juniorbros](https://github.com/satincult8)  
 
 ---
 
