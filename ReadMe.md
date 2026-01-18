@@ -20,6 +20,7 @@ The PS4 game version is v1.46.
 #### - [Optional Patches](Extras/Optional%20Patches)
    - [3rd Party Folder](Extras/Optional%20Patches/3rd%20Party%20Folder) 
 #### - [How to compile *PS5/Xbox Series* X (Gen 9) Shaders](Extras/Gen9-Shaders.md)
+#### - [PS4 Build Tests](https://github.com/FranklinClintonDev/gta-v-source-code-guide/blob/main/Extras/ps4-debug-tests.md)
 
 ### Credits:
 
@@ -34,6 +35,7 @@ Without you all I could not have made this guide thank you very much.
 
 ---------------------------------------------------------------------
 ### If you need any help feel free to ask in our discord server https://discord.com/invite/Yd3YamEAYK
+
 
 
 
