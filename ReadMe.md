@@ -27,7 +27,7 @@ Due to legel reasons i have to name the console a diffrent name, you can probabl
 
 ### Credits:
 
-#### PC Guide by: [atomicload](https://github.com/atomicload) and [Franklin_Clinton](https://github.com/FranklinClintonDev).
+#### PC Guide by: [yungDoom](https://github.com/yungDooom) and [Franklin_Clinton](https://github.com/FranklinClintonDev).
 #### PC Patches by: [Troplo](https://github.com/Troplo)
 #### PS4 Guide by: [Sorynx](https://github.com/Dbz9), [Franklin_Clinton](https://github.com/FranklinClintonDev), [juniorbros](https://github.com/satincult8), Mojso, [greensci](https://github.com/greensci). 
 #### PS4 Patches, SDKs and support by [Jorby](https://github.com/coldreactor64)
