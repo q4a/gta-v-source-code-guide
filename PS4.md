@@ -62,6 +62,7 @@
 5. Run `Connect_X_Drive.bat`  
 6. Right-click on the gta5 folder, turn off the "Read-Only" option, then press "Apply"
 
+Alternativly you can just change your drive letter of a a drive to X.
 
 ## Setup ORBIS SDK
 1. Get [`ORBIS SDKs.7z`](https://pixeldrain.com/u/ffVDXJos).
