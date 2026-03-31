@@ -56,6 +56,8 @@
 5. Run `Connect_X_Drive.bat`  
 6. Right-click on the gta5 folder, turn off the "Read-Only" option, then press "Apply"
 
+Alternativly you can just change your drive letter of a a drive to X.
+
 ## Patching Source Code and Tools
 
 1. Add all files from [`GTA V - Source Code Patches/PC`](GTA%20V%20-%20Source%20Code%20Patches/PC) to `X:\gta5\src\dev_ng`  
